@@ -7,9 +7,9 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['221764137432']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['221764137432']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['221764137432']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.Owner = ['221701111448']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['221701111448']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.ownertag = ['221701111448']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
 global.BotName = "PRIME YOUSSOUF"
 global.packname = "RYO SENSEI"
 global.author = "By: YOUSSOUF"
