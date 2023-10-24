@@ -20,10 +20,10 @@ global.sessionName = "session"  // -- Don't change otherwise bot will not work -
 
 
 
-global.prefa = ['.'] // Prefix ---  change it to anythong you want except '@' //
+global.prefa = ['🏴‍☠️'] // Prefix ---  change it to anythong you want except '@' //
 
 
-global.location = "West Bengal, India"
+global.location = "Dakar, Senegal"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
@@ -61,14 +61,14 @@ global.mess = {
     jobdone: 'Job done...',
     useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
+    botowner: 'Only Youssouf the greatest ever can use this command stfu sale tchoin!',
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Baka!',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Chotto Matte...',
     nolink: 'Please provide me *link*, Baka!',
     error: 'An error occurd!',
-    banned: 'You are *Banned* fron using commands!',
+    banned: 'Tu vient d'integrer tribunal des bannis Bienvenue au goulag. !',
     bangc: 'This Group is *Banned* from using Commands!',
     nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
     
